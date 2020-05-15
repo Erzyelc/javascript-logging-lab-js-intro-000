@@ -1,0 +1,1 @@
+console.lerror('Bad!');
