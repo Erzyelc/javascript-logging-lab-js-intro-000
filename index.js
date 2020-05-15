@@ -1,3 +1,3 @@
 console.lerror('Bad!');
-console.log('Yo Yo');
+console.log('hey what up');
 console.warn('Hey you, be careful');
